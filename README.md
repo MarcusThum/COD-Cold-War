@@ -2,7 +2,8 @@
  Marcus-Thum's-Playthrough
 
 ## Decryption & Possible Suspects
-> ![]((UK) RedCircus-Crackdown-UK-Leaders.pdf)
+ - UK Leader Suspects: https://github.com/MarcusThum/COD-Cold-War/blob/main/UK/(UK)%20RedCircus-Crackdown-UK-Leaders.pdf
+ - US Sleeper Agents: https://github.com/MarcusThum/COD-Cold-War/blob/main/US/(US)%20Operation-Chaos-Sleeper-Agents.pdf
 
 ## Decisions
 
